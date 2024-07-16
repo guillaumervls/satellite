@@ -1,0 +1,8 @@
+{
+    "StatusCode": 200,
+    "Header": {
+        "x-foo": ["bar", "baz"],
+        "origin": [URL.Path]
+    },
+    "Body": "hello world"
+}

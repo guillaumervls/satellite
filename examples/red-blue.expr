@@ -1,0 +1,6 @@
+{
+    "StatusCode": 200,
+    "Header": {
+        "fly-replay": URL.Path == "/blue" ? ["app=gr-app-blue"] : ["app=gr-app-red"]
+    }
+}
